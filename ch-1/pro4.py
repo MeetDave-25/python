@@ -1,0 +1,1 @@
+print(list(range(1,31,2)))
